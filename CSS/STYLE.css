@@ -1,0 +1,166 @@
+body{
+    margin:10px;
+    text-align:center;
+    margin: 0 auto 0 auto;
+   /* background-color: #eae4e6;*/
+}
+.top-container{
+  background-color:#eae4e6;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+h1{
+    font-size: 50px;
+    margin: 50px auto 0 auto;
+    font-family:'Sacramento',sans-serif;
+    font-size: 100px;
+    color: #66BFBF;
+}
+h3{
+    position: relative;
+    font-family: serif;
+    color:#11999E;
+}
+h2{
+    font-family: serif;
+    color:tomato;
+    font-weight: normal;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: relative;
+    margin-left: 35%;
+}
+.varun{
+    border-radius: 50%;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-bottom: none; 
+    border-radius: 0mm;  
+    border-width: 5px;
+    width:5%;          
+}
+a{
+  color:#11999E;
+  font-family: 'Montserrat',sans-serif;
+  text-decoration: none;
+ /* margin-left: 50px;*/
+}
+a:hover{
+  color: #eaf6f6;;
+}
+.circular{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+  }
+  .circular1{
+    width: 30%;
+    position:relative;
+    margin-right: 0%;
+    margin-right: 30px;
+    border-radius: 100%; 
+    margin-bottom: 50px;
+  }
+  .prog-img{
+    text-align: left;
+  }
+  .prog-text{
+    text-align: left;
+  }
+  .tech-text{
+    position: relative;
+
+  }
+  .btn {
+    background: #34d9b8;
+    background-image: -webkit-linear-gradient(top, #34d9b8, #2bb8a5);
+    background-image: -moz-linear-gradient(top, #34d9b8, #2bb8a5);
+    background-image: -ms-linear-gradient(top, #34d9b8, #2bb8a5);
+    background-image: -o-linear-gradient(top, #34d9b8, #2bb8a5);
+    background-image: linear-gradient(to bottom, #34d9b8, #2bb8a5);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+  font-family: 'Montserrat',sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cfcbf;
+    background-image: -webkit-linear-gradient(top, #3cfcbf, #34d9a2);
+    background-image: -moz-linear-gradient(top, #3cfcbf, #34d9a2);
+    background-image: -ms-linear-gradient(top, #3cfcbf, #34d9a2);
+    background-image: -o-linear-gradient(top, #3cfcbf, #34d9a2);
+    background-image: linear-gradient(to bottom, #3cfcbf, #34d9a2);
+    text-decoration: none;
+  }
+
+/*text-align:center;
+
+place it any where in the css to get it in the middle  
+
+*/
+
+/*
+      INDEX PART
+
+</div>
+    
+    <div class="mid-container" style="margin-left:260px;">
+        <h1>gt</h1>
+    </div>
+    <div class="end-container" style="margin-left:540px;"> 
+    <H1>hi</H1>
+    </div>*/
+
+    /*  
+            STYLES PART
+    
+    .top-container{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+}
+.mid-container{
+    background-color: aqua;
+    height: 200px;
+    width:200px;
+    padding: 20px;
+   border: solid 20px;
+    
+}
+.end-container{
+    background-color: green;
+    height: 200px;
+    width:200px;
+    padding: 20px;
+   border: solid 10px;
+}
+
+
+
+
+
+
+<p>
+  1)Good At Problem Solving
+  <br>
+  2)Skilled in C,C++ & Pythom
+  <br>
+  3)Good in Team Management
+</p>
+
+*/
